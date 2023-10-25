@@ -1,0 +1,57 @@
+.footer__content {
+  background: var(--Dark-Primary, #2A254B);
+}
+
+.footer__content__top-menu {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  color: #FFF;
+}
+
+.footer__content__top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 58px;
+}
+
+.footer__content__top ul {
+  list-style: none;
+}
+
+.footer__content-search {
+  display: flex;
+  margin-left: -500px;
+  align-items: center;
+}
+
+.footer__content-search input {
+  padding: 20px;
+  background-color: #2A254B;
+}
+
+.footer__content-search::after {
+  content: "sign up";
+  border-radius: 0 0 0 0;
+  padding: 20px;
+  color: #2A254B;
+  background-color: #fff;
+}
+
+.footer__content-icon {
+  display: flex;
+  flex-direction: row;
+  padding-left: 150px;
+  gap: 1150px;
+}
+
+.footer__content-icon p {
+  color: #FFF;
+}
+
+.footer-icon {
+  color: #2A254B;
+  gap: 50px;
+}/*# sourceMappingURL=footer.css.map */

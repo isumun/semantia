@@ -1,0 +1,26 @@
+@media screen and (max-width: 1200) {
+  .hero {
+    width: 1000px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .hero {
+    width: 780px;
+  }
+}
+@media screen and (max-width: 780px) {
+  .hero {
+    width: 400px;
+  }
+  .header__content-icon {
+    display: none;
+  }
+}
+@media screen and (max-width: 400px) {
+  .hero {
+    width: 300px;
+  }
+  .header__content-icon {
+    display: none;
+  }
+}/*# sourceMappingURL=media.css.map */

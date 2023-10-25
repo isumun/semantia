@@ -1,0 +1,20 @@
+.furniture__content-logo {
+  font-size: 32px;
+  padding-left: 50px;
+}
+
+.furniture__content__top {
+  display: flex;
+  flex-direction: row;
+  padding-left: 50px;
+  gap: 15%;
+}
+
+.furniture__content__top-btn {
+  margin-top: 41px;
+  color: var(--White, #5157ac);
+  padding: 16px 40px;
+  background-color: #fff;
+  line-height: 150%;
+  margin: 50px 635px 56px 840px;
+}/*# sourceMappingURL=furniture.css.map */

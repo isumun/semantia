@@ -1,0 +1,34 @@
+
+.penultimate__content{
+    display: flex;
+    flex-direction: row;
+    padding-top:  60px;
+}
+.penultimate__content__top{
+    background: var(--Dark-Primary, #f1f0f7) center/cover;
+    min-width: 720px;
+    min-height: 300px;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+.penultimate__content__top-title{
+    padding-top: 50px;
+    font-size: 43px;
+}
+.penultimate__content__top-text{
+    padding-top: 25px;
+    font-size: 28px;
+}
+.penultimate__content__top-text2{
+    padding-top: 30px;
+    font-size: 28px;
+}
+
+.penultimate__content__top-btn{
+    color: #2A254B;
+    margin-top: 45px;
+    padding: 16px 32px;
+    gap: 10px;
+    line-height: 150%
+}

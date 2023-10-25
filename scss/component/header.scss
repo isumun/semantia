@@ -1,0 +1,28 @@
+
+.header__content-top{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.header__content-logo{
+    color: #22202E;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.header__content-nav{
+    display:flex;
+    gap: 44px;
+    color: #726E8D;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 50px;
+}
+.header__content-icon2{
+    padding-right: 20px ;
+}

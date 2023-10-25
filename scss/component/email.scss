@@ -1,0 +1,46 @@
+
+.email__content-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--Dark-Primary, #2A254B);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; 
+}
+
+.email__content-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--Dark-Primary, #2A254B);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%; 
+}
+.email__content-text2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: var(--Dark-Primary, #2A254B);
+}
+.email__content-search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email__content-search input{
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+}
+.email__content-search::after{
+    content:"sign up";
+    border-radius: 0 0 0 0;
+    padding: 8px;
+    background-color:#2A254B;
+    color: #fff;
+}

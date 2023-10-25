@@ -1,0 +1,22 @@
+.features__content-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    line-height: 140%;
+    padding-top: 70px;
+}
+.features__content__top{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    padding-left: 80px;
+}
+
+.features__content__top-info h3{
+    padding-top: 16px;
+    font-size: 20px;
+}
+.features__content__top-info p{
+    padding-top: 8px;
+}
